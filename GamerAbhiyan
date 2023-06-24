@@ -75,6 +75,7 @@ Number3.Position = UDim2.new(0.147368419, 0, 0.379487187, 0)
 Number3.Size = UDim2.new(0, 200, 0, 20)
 Number3.Font = Enum.Font.SourceSans
 Number3.PlaceholderText = "Sorry For Long Update :)"
+Number3.Text = "Sorry For Long Update :)"
 Number3.TextColor3 = Color3.new(0, 0, 0)
 Number3.TextSize = 18
 Number3.TextWrapped = true
