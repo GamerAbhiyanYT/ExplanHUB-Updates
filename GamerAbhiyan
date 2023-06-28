@@ -20,7 +20,7 @@ Frame.BackgroundColor3 = Color3.fromRGB(161, 214, 255)
 Frame.Position = UDim2.new(0.370578766, 0, 0.300341278, 0)
 Frame.Size = UDim2.new(0, 487, 0, 208)
 
-KeyBox.Name = "3xpl4nHUb~W1th~Key~Upd4te"
+KeyBox.Name = "Fadil Cupu, Penakut"
 KeyBox.Parent = Frame
 KeyBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 KeyBox.Position = UDim2.new(0.215605766, 0, 0.211538464, 0)
@@ -57,7 +57,7 @@ Enter.Text = "ENTER"
 Enter.TextColor3 = Color3.fromRGB(0, 0, 0)
 Enter.TextSize = 19.000
 Enter.MouseButton1Click:Connect(function()
-if KeyBox.Text == "3xpl4nHUb~W1th~Key~Upd4te" then
+if KeyBox.Text == "Fadil Cupu, Penakut" then
 		Frame.Visible = false
 		wait(0.5)
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerAbhiyanYT/ExplanHUB-Update/main/GamerAbhiyan"))()
